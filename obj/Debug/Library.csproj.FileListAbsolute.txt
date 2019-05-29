@@ -1,0 +1,10 @@
+C:\Users\billel.derbal\Desktop\photos cv\Nouveau dossier\Library-master\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\billel.derbal\Desktop\photos cv\Nouveau dossier\Library-master\Library\bin\Debug\Library.exe.config
+C:\Users\billel.derbal\Desktop\photos cv\Nouveau dossier\Library-master\Library\bin\Debug\Library.exe
+C:\Users\billel.derbal\Desktop\photos cv\Nouveau dossier\Library-master\Library\bin\Debug\Library.pdb
+C:\Users\billel.derbal\Desktop\photos cv\Nouveau dossier\Library-master\Library\bin\Debug\Newtonsoft.Json.dll
+C:\Users\billel.derbal\Desktop\photos cv\Nouveau dossier\Library-master\Library\bin\Debug\Newtonsoft.Json.xml
+C:\Users\billel.derbal\Desktop\photos cv\Nouveau dossier\Library-master\Library\obj\Debug\Library.csproj.CopyComplete
+C:\Users\billel.derbal\Desktop\photos cv\Nouveau dossier\Library-master\Library\obj\Debug\Library.exe
+C:\Users\billel.derbal\Desktop\photos cv\Nouveau dossier\Library-master\Library\obj\Debug\Library.pdb
+C:\Users\billel.derbal\Desktop\photos cv\Nouveau dossier\Library-master\Library\obj\Debug\Library.csprojAssemblyReference.cache
